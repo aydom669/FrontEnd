@@ -48,4 +48,8 @@ body {
   .form a {
     color: #8d8c8c; }
 
+@media (max-width: 512px) {
+  .form {
+    margin: 0 2rem; } }
+
 /*# sourceMappingURL=style.css.map */
